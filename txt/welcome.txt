@@ -4,4 +4,3 @@ If you are reading this, you have probably successfully cloned the repository.
 
 Aside from this welcome file, there is another file you can look at too.
 
-Thanks for the welcome!
